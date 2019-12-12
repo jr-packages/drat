@@ -389,12 +389,12 @@ MD5sum: 1385e2968ba84f59e58ee5a85a75b5f2
 NeedsCompilation: no
 
 Package: jrYr
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.1.0)
-Imports: shiny, rmarkdown, plotly, DT, ggplot2, dplyr, shinydashboard,
-        knitr, tufte
+Imports: dplyr, DT, ggplot2, knitr, plotly, rmarkdown, shiny,
+        shinydashboard, tufte
 License: GPL-3
-MD5sum: dd5c3953e33ea50db200c26fe32a46a4
+MD5sum: cda69b099c9032df70aa239d394f220b
 NeedsCompilation: no
 
 Package: pieR

@@ -58,11 +58,12 @@ MD5sum: 795b8eff9ae37a57a38367fe765fc7fb
 NeedsCompilation: no
 
 Package: jrAdvPackage
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.0)
-Imports: devtools, knitr, roxygen2, drat, poweRlaw, jrData, pryr, tufte
+Imports: devtools, drat, jrData, knitr, poweRlaw, pryr, roxygen2, tufte
+Suggests: lintr, testthat
 License: GPL-3 | GPL-2
-MD5sum: fbf564d305f04d6311e5e0180a9a9187
+MD5sum: 557ad2e5898ab08d2e6856090bd1dd44
 NeedsCompilation: no
 
 Package: jrAnalytics

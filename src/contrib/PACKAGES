@@ -89,13 +89,13 @@ NeedsCompilation: no
 Package: jrBig
 Version: 0.1.4
 Depends: R (>= 3.3)
-Imports: dplyr (>= 0.7), ff, ffbase, readr, pryr, stats,
-        microbenchmark, ggplot2, benchmarkme, jrData
-Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
-        sparklyr, nycflights13, DBI, ggplot2movies, testthat, lintr,
-        dbplyr (>= 1.1.0)
+Imports: benchmarkme, dplyr (>= 0.7), ff, ffbase, ggplot2, jrData,
+        microbenchmark, pryr, readr, stats
+Suggests: bigvis, data.table, DBI, dbplyr (>= 1.1.0), ggplot2movies,
+        knitr, lintr, nycflights13, Rcpp, rmarkdown, RSQLite, sparklyr,
+        tabplot
 License: GPL-2
-MD5sum: 56e44384ac4fe9c372bb8634df25acda
+MD5sum: dafdee9f0e939ff050a3e0973d733caa
 NeedsCompilation: no
 
 Package: jrData

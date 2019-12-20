@@ -206,11 +206,11 @@ MD5sum: e7f4cd490b24bc8781fb62c1707991ac
 NeedsCompilation: no
 
 Package: jroreillyregression
-Version: 0.1.0
-Depends: R(>= 3.0)
-Suggests: knitr, caret, rmarkdown, glmnet
+Version: 0.1.1
+Depends: R (>= 3.0)
+Suggests: caret, glmnet, knitr, lintr, rmarkdown, testthat
 License: GPL-3
-MD5sum: b2461baee4f1964a027b0b6520fd870f
+MD5sum: 316181542c87f42408743529f8073ec1
 NeedsCompilation: no
 
 Package: jrPackage

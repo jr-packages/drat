@@ -51,10 +51,10 @@ NeedsCompilation: no
 Package: jrAdvGgplot2
 Version: 0.1.0
 Depends: R (>= 3.1)
-Imports: pryr, hexbin, ggplot2, ggplot2movies, quantreg,
-Suggests: knitr, fortunes, tufte, rmarkdown
+Imports: ggplot2, ggplot2movies, hexbin, pryr, quantreg
+Suggests: fortunes, knitr, rmarkdown, tufte
 License: GPL-3 | GPL-2
-MD5sum: 795b8eff9ae37a57a38367fe765fc7fb
+MD5sum: 346b088e03dccb2a4fb6d174f305ac36
 NeedsCompilation: no
 
 Package: jrAdvPackage

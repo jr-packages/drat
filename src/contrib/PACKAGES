@@ -125,13 +125,13 @@ MD5sum: 53bc6fec53b1a8bbe118040998c61ab2
 NeedsCompilation: no
 
 Package: jrGgplot2
-Version: 0.1.8
+Version: 0.1.9
 Depends: R (>= 3.3.0)
 Imports: ggplot2, ggplot2movies, ggrepel, ggridges, ggthemes,
         gridExtra, hexbin, hrbrthemes, plotly, quantreg
-Suggests: DT, formatR, gganimate, knitr, lintr, magick, tufte
+Suggests: DT, formatR, gganimate, ggforce, knitr, lintr, magick, tufte
 License: GPL-2 | GPL-3
-MD5sum: 3f01067e874d40494ae2299c80e733cb
+MD5sum: c6ff3daca3ac88b3ae7699bd6f02a4c4
 NeedsCompilation: no
 
 Package: jrGgplot2Bio

@@ -125,14 +125,14 @@ MD5sum: 53bc6fec53b1a8bbe118040998c61ab2
 NeedsCompilation: no
 
 Package: jrGgplot2
-Version: 0.1.10
+Version: 0.1.11
 Depends: R (>= 3.3.0)
 Imports: ggplot2, ggplot2movies, ggrepel, ggridges, ggthemes,
         gridExtra, hexbin, hrbrthemes, plotly, quantreg
 Suggests: DT, formatR, gapminder, gganimate, ggforce, knitr, lintr,
-        magick, tufte
+        magick, patchwork, tufte
 License: GPL-2 | GPL-3
-MD5sum: ef28185dd94c4ee60282cd0a67073cda
+MD5sum: 9a5bcf65e138524c28c305cf0f916a1f
 NeedsCompilation: no
 
 Package: jrGgplot2Bio

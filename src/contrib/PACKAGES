@@ -227,12 +227,12 @@ MD5sum: 316181542c87f42408743529f8073ec1
 NeedsCompilation: no
 
 Package: jrPackage
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.0)
-Imports: devtools, tinytex, knitr, roxygen2, drat, poweRlaw, testthat,
-        jrData, lintr
+Imports: devtools, drat, jrData, knitr, lintr, poweRlaw, roxygen2,
+        testthat, tinytex
 License: GPL-3 | GPL-2
-MD5sum: c349d73b3ad0f1614aa8aa807cc1050a
+MD5sum: f3d0b80e7e5713fc6b2de46bdd12f84e
 NeedsCompilation: no
 
 Package: jrPred

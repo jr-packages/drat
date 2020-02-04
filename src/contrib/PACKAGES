@@ -146,6 +146,14 @@ License: GPL-2 | GPL-3
 MD5sum: 3ceb58ddd27eafc1e22bc2bc05555315
 NeedsCompilation: no
 
+Package: jrGit
+Version: 0.0.0
+Depends: R (>= 3.2.0)
+Suggests: formatR, knitr, rmarkdown, tufte
+License: GPL-3
+MD5sum: 22a4c4ce7031c7052960086828392a1a
+NeedsCompilation: no
+
 Package: jrIntroBio
 Version: 0.2.2
 Depends: R (>= 3.2.0)

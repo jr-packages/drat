@@ -248,7 +248,7 @@ MD5sum: f0c119543c0685af1163966dea602255
 NeedsCompilation: no
 
 Package: jrPredictive
-Version: 1.1.6
+Version: 1.1.7
 Depends: R (>= 3.5.0)
 Imports: AppliedPredictiveModeling, caret, e1071, elasticnet, gam, gbm,
         ggplot2, gridExtra, ipred, ISLR, jrData, kernlab, lars,
@@ -257,7 +257,7 @@ Imports: AppliedPredictiveModeling, caret, e1071, elasticnet, gam, gbm,
 Suggests: colorspace, knitr, lintr, MASS, rmarkdown, shiny, testthat,
         tufte
 License: GPL-3 | GPL-2
-MD5sum: 7ff098b84347598d9c1dd9313069798a
+MD5sum: c05cb14b160ca3fdb32898059957635d
 NeedsCompilation: no
 
 Package: jrPresentation

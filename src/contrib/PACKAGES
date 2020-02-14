@@ -115,13 +115,13 @@ MD5sum: 2111c56f9869e99560e046d986fb1b26
 NeedsCompilation: no
 
 Package: jrEfficient
-Version: 0.1.4
-Depends: R (>= 3.3.0)
+Version: 0.1.5
+Depends: R (>= 3.5.0)
 Imports: bench, benchmarkme, pryr, rbenchmark
 Suggests: formatR, fortunes, ggbeeswarm, ggplot2, knitr, lintr, readr,
         testthat, tidyr, tufte
 License: GPL-3
-MD5sum: 53bc6fec53b1a8bbe118040998c61ab2
+MD5sum: 6c58c1d4317451a08f4c7129d059bfbb
 NeedsCompilation: no
 
 Package: jrGgplot2

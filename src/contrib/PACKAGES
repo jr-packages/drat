@@ -269,13 +269,13 @@ MD5sum: 8302106e34aafffad5cfd080c02b069d
 NeedsCompilation: no
 
 Package: jrPresentation
-Version: 0.1.20.9011
+Version: 0.1.20.9016
 Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
-        (>= 1.20), lintr, rmarkdown (>= 1.10), rsconnect (>= 0.8.11),
-        stringr, xaringan (>= 0.8)
-Suggests: testthat
+        (>= 1.20), lintr, reticulate, rmarkdown (>= 1.10), rsconnect
+        (>= 0.8.11), stringr, xaringan (>= 0.8)
+Suggests: jrNotes, testthat
 License: GPL-2 | GPL-3
-MD5sum: 62040b08982b5e73fff444b1acd77c55
+MD5sum: f1ff9f92227c58affd8f5ed6ffd13056
 NeedsCompilation: no
 
 Package: jrProgBio

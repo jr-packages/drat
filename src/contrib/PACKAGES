@@ -382,15 +382,14 @@ MD5sum: 7d242f4fb9d7aebe5f457728bb0bceb9
 NeedsCompilation: no
 
 Package: jrTidyverse
-Version: 0.1.8
+Version: 0.1.9
 Depends: R (>= 3.3.0)
 Imports: dplyr (>= 0.7.4), ggplot2, ggplot2movies, hrbrthemes,
-        lubridate (>= 1.7.2), plotly, readr, tibble (>= 1.4.2), tidyr,
-        tidyverse, wordcloud
-Suggests: gridExtra, gutenbergr, knitr, lintr, rmarkdown, skimr,
-        testthat
+        lubridate (>= 1.7.2), plotly, readr, skimr, tibble (>= 1.4.2),
+        tidyr, tidyverse, wordcloud
+Suggests: gridExtra, gutenbergr, knitr, lintr, rmarkdown, testthat
 License: GPL-2
-MD5sum: 7a83f973d50886e4655ebc27e70477eb
+MD5sum: 1316a1a004ecc484c77ea4e4b1680124
 NeedsCompilation: no
 
 Package: jrTidyverse2

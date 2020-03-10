@@ -147,12 +147,12 @@ MD5sum: 3ceb58ddd27eafc1e22bc2bc05555315
 NeedsCompilation: no
 
 Package: jrGit
-Version: 0.0.7
+Version: 0.0.8.9001
 Depends: R (>= 3.5.0)
-Imports: dplyr, ggplot2, usethis
+Imports: dplyr, ggplot2, tidyverse, usethis
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: aa231d93d77590d72c295125b74736ad
+MD5sum: 2fe68f8fe7f99279606066a3fa775ef7
 NeedsCompilation: no
 
 Package: jrIntroBio

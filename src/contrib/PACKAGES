@@ -455,6 +455,14 @@ License: GPL-2
 MD5sum: 4d26825b158de4cc40c3f8137d4b99fe
 NeedsCompilation: no
 
+Package: recipes
+Version: 0.0.2
+Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny, stringr,
+        tibble
+License: GPL-2 | GPL-3
+MD5sum: 5c8671ffdfdb754b581c3fc153a8a116
+NeedsCompilation: no
+
 Package: stopwatcheR
 Version: 0.1.0
 Imports: htmltools

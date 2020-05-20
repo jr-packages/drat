@@ -23,10 +23,10 @@ NeedsCompilation: no
 
 Package: getrecipes
 Version: 0.0.3
-Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny, stringr,
-        tibble
+Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny,
+        shinycssloaders, stringr, tibble
 License: GPL-2 | GPL-3
-MD5sum: 3061716445c5629f23a7027cea08fa22
+MD5sum: 7e183841155971804ae5935ee3981cb8
 NeedsCompilation: no
 
 Package: headR

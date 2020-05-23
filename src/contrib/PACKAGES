@@ -435,7 +435,7 @@ Imports: broom, GGally, ggplot2movies, ggraph, ggthemes, gutenbergr,
         tidyverse, wordcloud
 Suggests: htmlwidgets, knitr, lintr, rmarkdown
 License: GPL-2
-MD5sum: 3f14a342ec566fc82262afab6dfc3014
+MD5sum: 3c4e0a145ae225ef3f009a45cd4522cf
 NeedsCompilation: no
 
 Package: jrWhyR

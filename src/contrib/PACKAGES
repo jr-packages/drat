@@ -133,14 +133,14 @@ MD5sum: 6c58c1d4317451a08f4c7129d059bfbb
 NeedsCompilation: no
 
 Package: jrGgplot2
-Version: 0.1.17
+Version: 0.1.18
 Depends: R (>= 3.3.0)
 Imports: dplyr, gapminder, gganimate, ggforce, ggplot2 (>= 3.3.0),
-        ggplot2movies, ggrepel, ggridges, ggthemes, gridExtra, hexbin,
-        hrbrthemes, patchwork, plotly, png, quantreg, tibble
+        ggplot2movies, ggrepel, ggridges, ggthemes, gifski, gridExtra,
+        hexbin, hrbrthemes, patchwork, plotly, png, quantreg, tibble
 Suggests: DT, formatR, knitr, lintr, magick, tufte
 License: GPL-2 | GPL-3
-MD5sum: b0b2b42170bde81b0348887e155edd6e
+MD5sum: ca75a2e530376b151ba4331923956a6c
 NeedsCompilation: no
 
 Package: jrGgplot2Bio

@@ -702,6 +702,14 @@ License: GPL-3 | GPL-2
 MD5sum: c916b31776bfcf835f4caffe198d9454
 NeedsCompilation: no
 
+Package: jrRstan
+Version: 0.2.0
+Imports: graphics, grDevices, plyr, rstan, shinystan, stats
+Suggests: lintr, R.rsp, RcppEigen, Rdpack
+License: GPL-3 | GPL-2
+MD5sum: b69ba701af49c0306b0559fd0dd5ac10
+NeedsCompilation: no
+
 Package: jrShiny
 Version: 1.2.803
 Depends: R (>= 3.5)

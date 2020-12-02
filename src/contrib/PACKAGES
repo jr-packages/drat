@@ -741,6 +741,15 @@ License: GPL-3 | GPL-2
 MD5sum: 874ff3953cefe9d7e40f62c4ce965f95
 NeedsCompilation: no
 
+Package: jrPackage
+Version: 0.1.5
+Depends: R (>= 3.0)
+Imports: devtools, drat, jrData, knitr, lintr, poweRlaw, roxygen2,
+        testthat, tinytex
+License: GPL-3 | GPL-2
+MD5sum: bbe2cb544518d77573c00cb8331fa3d0
+NeedsCompilation: no
+
 Package: jrPred
 Version: 1.1.0
 Depends: R (>= 3.1.0)

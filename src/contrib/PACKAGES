@@ -724,6 +724,15 @@ License: GPL-3 | GPL-2
 MD5sum: e7f4cd490b24bc8781fb62c1707991ac
 NeedsCompilation: no
 
+Package: jrOOP
+Version: 0.1.1
+Depends: R (>= 3.1)
+Imports: ggplot2, gridExtra, hexbin, pryr, quantreg
+Suggests: fortunes, knitr, rmarkdown, tufte
+License: GPL-3 | GPL-2
+MD5sum: 766b868dadab9299cbe32a7ccdd41673
+NeedsCompilation: no
+
 Package: jroreillyregression
 Version: 0.1.1
 Depends: R (>= 3.0)

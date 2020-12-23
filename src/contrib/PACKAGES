@@ -794,9 +794,9 @@ NeedsCompilation: no
 Package: jrNotesCI
 Version: 0.1.0
 Depends: R (>= 3.5.0)
-Imports: cli, drat, inteRgrate, yaml
+Imports: cli, drat, inteRgrate, remotes, yaml
 License: GPL-3
-MD5sum: c7710f7b16042979426f9b81bc56b43f
+MD5sum: a9a988d44c2fb92c5ba3cfd701e59b24
 NeedsCompilation: no
 
 Package: jrOOP

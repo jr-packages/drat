@@ -800,7 +800,7 @@ Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr,
         stringi, stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
 Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
 License: GPL-3
-MD5sum: ceebd74fa7e98c76e430293de33030f1
+MD5sum: 760c268bc7304ba2c0406d3fda70aa08
 NeedsCompilation: no
 
 Package: jrNotesCI

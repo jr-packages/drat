@@ -344,7 +344,7 @@ Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
         (>= 0.8.11), stringr, xaringan (>= 0.8)
 Suggests: jrNotes, testthat, yaml
 License: GPL-2 | GPL-3
-MD5sum: dc2bba27ab4019b4ffa8e1a24f8a0b2e
+MD5sum: 874df78194560a728ae7fa75b0e8f3fd
 NeedsCompilation: no
 
 Package: jrProgBio

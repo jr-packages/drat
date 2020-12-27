@@ -88,9 +88,9 @@ Version: 0.1.7
 Depends: R (>= 3.3)
 Imports: drat, ggplot2movies, utils
 Suggests: d3heatmap, DT, dygraphs, edgebundleR, flexdashboard, formatR,
-        formattable, ggiraph, ggplot2, gridSVG, htmlwidgets, knitr, MASS,
-        networkD3, plotly, revealjs, rmarkdown, rsconnect, shiny, sparkline,
-        svglite, svgPanZoom, tufte
+        formattable, ggiraph, ggplot2, gridSVG, htmlwidgets, knitr,
+        MASS, networkD3, plotly, revealjs, rmarkdown, rsconnect, shiny,
+        sparkline, svglite, svgPanZoom, tufte
 License: CC0
 MD5sum: 94fec5b7f51f0113e154f93713ec56aa
 NeedsCompilation: no
@@ -100,8 +100,9 @@ Version: 0.1.4
 Depends: R (>= 3.3)
 Imports: benchmarkme, dplyr (>= 0.7), ff, ffbase, ggplot2, jrData,
         microbenchmark, pryr, readr, stats
-Suggests: bigvis, data.table, DBI, dbplyr (>= 1.1.0), ggplot2movies, knitr,
-        lintr, nycflights13, Rcpp, rmarkdown, RSQLite, sparklyr, tabplot
+Suggests: bigvis, data.table, DBI, dbplyr (>= 1.1.0), ggplot2movies,
+        knitr, lintr, nycflights13, Rcpp, rmarkdown, RSQLite, sparklyr,
+        tabplot
 License: GPL-2
 MD5sum: dafdee9f0e939ff050a3e0973d733caa
 NeedsCompilation: no
@@ -124,7 +125,8 @@ NeedsCompilation: no
 Package: jrEfficient
 Version: 0.1.8
 Depends: R (>= 3.3.0)
-Imports: bench, benchmarkme, dplyr, ggbeeswarm, ggplot2, lobstr, readr, tidyr
+Imports: bench, benchmarkme, dplyr, ggbeeswarm, ggplot2, lobstr, readr,
+        tidyr
 Suggests: formatR, fortunes, knitr, lintr, testthat, tufte
 License: GPL-3
 MD5sum: 53722c977346dffad9abc3dadeee769c
@@ -144,8 +146,9 @@ NeedsCompilation: no
 Package: jrGgplot2Bio
 Version: 0.1.6
 Depends: R (>= 3.5.0)
-Imports: dplyr, GGally, ggplot2, ggplot2movies, ggrepel, ggridges, ggthemes,
-        gridExtra, hexbin, hrbrthemes, jrGgplot2, plotly, quantreg
+Imports: dplyr, GGally, ggplot2, ggplot2movies, ggrepel, ggridges,
+        ggthemes, gridExtra, hexbin, hrbrthemes, jrGgplot2, plotly,
+        quantreg
 Suggests: DT, formatR, knitr, lintr, tufte
 License: GPL-2 | GPL-3
 MD5sum: 3ceb58ddd27eafc1e22bc2bc05555315
@@ -189,8 +192,8 @@ NeedsCompilation: no
 Package: jrIntroBio
 Version: 0.2.2
 Depends: R (>= 3.2.0)
-Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, jrData, jrIntroduction,
-        readr, readxl, tibble
+Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, jrData,
+        jrIntroduction, readr, readxl, tibble
 Suggests: formatR, knitr, lintr, rmarkdown, testthat, tufte
 License: GPL-3
 MD5sum: 8c4f05999b60cb6254fc3cf5350117e1
@@ -199,9 +202,10 @@ NeedsCompilation: no
 Package: jrIntroduction
 Version: 1.0.13
 Depends: R (>= 3.2.0)
-Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, gtrendsR, readr, readxl
-Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate, rmarkdown,
-        testthat, tidyr, tufte
+Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, gtrendsR, readr,
+        readxl
+Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate,
+        rmarkdown, testthat, tidyr, tufte
 License: GPL-3
 MD5sum: 37ab3715e59596ebf72cf7e0c7ea3ee2
 NeedsCompilation: no
@@ -210,8 +214,8 @@ Package: jrIntroductionRSS
 Version: 0.1.20
 Depends: R (>= 3.2.0)
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
-Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr, hrbrthemes,
-        gridExtra
+Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr,
+        hrbrthemes, gridExtra
 License: GPL-3
 MD5sum: 9742125b7917bd4be3185ba3d35c9cf6
 NeedsCompilation: no
@@ -230,9 +234,10 @@ NeedsCompilation: no
 Package: jrModellingBio
 Version: 0.0.3
 Depends: R (>= 3.5.0)
-Imports: broom, coin, dplyr, formatR, ggplot2, ggraph, jrModelling, mvtnorm,
-        rmarkdown, shiny, tidygraph, tidyverse, titanic
-Suggests: cowsay, DT, gridExtra, knitr, lintr, survival, testthat, tufte
+Imports: broom, coin, dplyr, formatR, ggplot2, ggraph, jrModelling,
+        mvtnorm, rmarkdown, shiny, tidygraph, tidyverse, titanic
+Suggests: cowsay, DT, gridExtra, knitr, lintr, survival, testthat,
+        tufte
 License: GPL-3 | GPL-2
 MD5sum: 3a0c9feca61a3491aae678256c5d8a76
 NeedsCompilation: no
@@ -240,10 +245,10 @@ NeedsCompilation: no
 Package: jrNotes
 Version: 0.11.1
 Depends: R (>= 3.5.0)
-Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr, knitr
-        (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf, reticulate (>=
-        1.11.1), rlang, rmarkdown (>= 2.3), spelling, stringi, stringr,
-        tibble, tidyr, tufte (>= 0.5), yaml, zip
+Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr,
+        knitr (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf,
+        reticulate (>= 1.11.1), rlang, rmarkdown (>= 2.3), spelling,
+        stringi, stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
 Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
 License: GPL-3
 MD5sum: 99a6eaa2dfdead71267d073ccf6c4931
@@ -252,11 +257,11 @@ NeedsCompilation: no
 Package: jrNotes1
 Version: 0.9.0
 Depends: R (>= 3.5.0)
-Imports: bookdown, cli, config, crayon, digest, dplyr, formatR, fs, gert,
-        glue, httr, knitr (>= 1.29), lintr (>= 2.0.1), magrittr, namer (>=
-        0.1.4), praise, purrr, qpdf, reticulate (>= 1.11.1), rlang, rmarkdown
-        (>= 2.3), rstudioapi, spelling, stringr, tibble, tidyr, tufte (>=
-        0.5), zip
+Imports: bookdown, cli, config, crayon, digest, dplyr, formatR, fs,
+        gert, glue, httr, knitr (>= 1.29), lintr (>= 2.0.1), magrittr,
+        namer (>= 0.1.4), praise, purrr, qpdf, reticulate (>= 1.11.1),
+        rlang, rmarkdown (>= 2.3), rstudioapi, spelling, stringr,
+        tibble, tidyr, tufte (>= 0.5), zip
 Suggests: covr, drat, testthat
 License: GPL-3
 MD5sum: 9e8eb222c858a0d7cd182c6a8bda6ebe
@@ -265,13 +270,13 @@ NeedsCompilation: no
 Package: jrNotes2
 Version: 0.11.1
 Depends: R (>= 3.5.0)
-Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr, knitr
-        (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf, reticulate (>=
-        1.11.1), rlang, rmarkdown (>= 2.3), spelling, stringi, stringr,
-        tibble, tidyr, tufte (>= 0.5), yaml, zip
+Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr,
+        knitr (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf,
+        reticulate (>= 1.11.1), rlang, rmarkdown (>= 2.3), spelling,
+        stringi, stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
 Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
 License: GPL-3
-MD5sum: 760c268bc7304ba2c0406d3fda70aa08
+MD5sum: e6230073d54fc1070d1233957ba94f20
 NeedsCompilation: no
 
 Package: jrNotesCI
@@ -302,8 +307,8 @@ NeedsCompilation: no
 Package: jrPackage
 Version: 0.1.6
 Depends: R (>= 3.0)
-Imports: devtools, drat, ggplot2, jrData, knitr, lintr, poweRlaw, roxygen2,
-        testthat, tinytex
+Imports: devtools, drat, ggplot2, jrData, knitr, lintr, poweRlaw,
+        roxygen2, testthat, tinytex
 License: GPL-3 | GPL-2
 MD5sum: 5843187bd23dd34a465e231747ccb5d7
 NeedsCompilation: no
@@ -311,9 +316,10 @@ NeedsCompilation: no
 Package: jrPred
 Version: 1.1.0
 Depends: R (>= 3.1.0)
-Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines, partykit,
-        mlbench, gridExtra, elasticnet, pls, lars, gam, ipred, randomForest,
-        gbm, kernlab, e1071, ggplot2, threejs, nlme, jrData
+Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
+        partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
+        ipred, randomForest, gbm, kernlab, e1071, ggplot2, threejs,
+        nlme, jrData
 Suggests: knitr, shiny, rmarkdown
 License: GPL-3 | GPL-2
 MD5sum: f0c119543c0685af1163966dea602255
@@ -333,9 +339,9 @@ NeedsCompilation: no
 
 Package: jrPresentation
 Version: 0.2.3
-Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr (>=
-        1.20), lintr, reticulate, rmarkdown (>= 1.10), rsconnect (>= 0.8.11),
-        stringr, xaringan (>= 0.8)
+Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
+        (>= 1.20), lintr, reticulate, rmarkdown (>= 1.10), rsconnect
+        (>= 0.8.11), stringr, xaringan (>= 0.8)
 Suggests: jrNotes, testthat, yaml
 License: GPL-2 | GPL-3
 MD5sum: a74206989acc62a65b67389d5ab2dbb8
@@ -344,8 +350,8 @@ NeedsCompilation: no
 Package: jrProgBio
 Version: 0.0.4
 Depends: R (>= 3.5.0)
-Suggests: dplyr, formatR, ggplot2, ggplot2movies, jrProgramming, knitr, lintr,
-        rmarkdown, stringi, stringr, testthat, tufte
+Suggests: dplyr, formatR, ggplot2, ggplot2movies, jrProgramming, knitr,
+        lintr, rmarkdown, stringi, stringr, testthat, tufte
 License: GPL-3
 MD5sum: 5fb5a9165c05b28f86f4aec5363ad528
 NeedsCompilation: no
@@ -362,8 +368,8 @@ NeedsCompilation: no
 Package: jrRmd
 Version: 0.3.6
 Depends: R (>= 3.5.0)
-Imports: bookdown, dplyr (>= 1.0.0), DT, flexdashboard, gapminder, ggplot2,
-        kableExtra, knitr, plotly, rmarkdown
+Imports: bookdown, dplyr (>= 1.0.0), DT, flexdashboard, gapminder,
+        ggplot2, kableExtra, knitr, plotly, rmarkdown
 License: GPL-3
 MD5sum: 6e457fc780794f9f52a808cc5691e7bd
 NeedsCompilation: no
@@ -399,17 +405,18 @@ Version: 1.2.803
 Depends: R (>= 3.5)
 Imports: DT, ggplot2, ggplot2movies, knitr, plotly, rmarkdown, shiny,
         shinydashboard, utils
-Suggests: d3heatmap, drat, dygraphs, edgebundleR, flexdashboard, formattable,
-        ggiraph, gridSVG, htmlwidgets, lintr, MASS, networkD3, rsconnect,
-        sparkline, svglite, svgPanZoom, testthat, tufte
+Suggests: d3heatmap, drat, dygraphs, edgebundleR, flexdashboard,
+        formattable, ggiraph, gridSVG, htmlwidgets, lintr, MASS,
+        networkD3, rsconnect, sparkline, svglite, svgPanZoom, testthat,
+        tufte
 License: CC0
 MD5sum: 08020d180944e357b268638be75022b0
 NeedsCompilation: no
 
 Package: jrSlides
 Version: 0.0.1.9002
-Imports: clisymbols, config, crayon, digest, fs, glue, lintr, rmarkdown (>=
-        1.10), rsconnect (>= 0.8.11), stringr
+Imports: clisymbols, config, crayon, digest, fs, glue, lintr, rmarkdown
+        (>= 1.10), rsconnect (>= 0.8.11), stringr
 Suggests: countdown, knitr (>= 1.20), xaringan (>= 0.10)
 License: GPL-2 | GPL-3
 MD5sum: 803217cd23d282dc5032c9dff3f5a555
@@ -418,8 +425,8 @@ NeedsCompilation: no
 Package: jrSouth
 Version: 0.1.1
 Depends: R (>= 3.5.0)
-Imports: hexbin, ggplot2, ggplot2movies, quantreg, ggthemes, hrbrthemes,
-        jrData, jrIntroduction, jrProgramming
+Imports: hexbin, ggplot2, ggplot2movies, quantreg, ggthemes,
+        hrbrthemes, jrData, jrIntroduction, jrProgramming
 Suggests: knitr
 License: GPL-2 | GPL-3
 MD5sum: 9ddbbff741e2e6bf5585e05f3d7936ba
@@ -429,8 +436,8 @@ Package: jrSpatial
 Version: 0.2.2
 Depends: R (>= 3.4.0)
 Imports: dplyr, ggplot2, leaflet, raster, sf, tibble, tidyr, tmap
-Suggests: cartogram, cartography, DT, ggspatial, knitr, lintr, maptools,
-        testthat, tufte, webshot
+Suggests: cartogram, cartography, DT, ggspatial, knitr, lintr,
+        maptools, testthat, tufte, webshot
 License: GPL-2
 MD5sum: 2457eb371e55e6b713b5fa3b042bd660
 NeedsCompilation: no
@@ -447,8 +454,8 @@ NeedsCompilation: no
 Package: jrSql
 Version: 0.1.4
 Depends: R (>= 3.4.0)
-Imports: DBI, dbplyr, dplyr (>= 0.7.0), ggplot2movies, leaflet, nycflights13,
-        odbc, RPostgreSQL
+Imports: DBI, dbplyr, dplyr (>= 0.7.0), ggplot2movies, leaflet,
+        nycflights13, odbc, RPostgreSQL
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
 MD5sum: 5f59731b429c92e8ce6e829635f5c2a9
@@ -465,7 +472,8 @@ Version: 0.1.5
 Depends: R (>= 3.5.0)
 Imports: baguette, broom, caret, dials, discrim, dplyr, e1071, ggplot2,
         glmnet, ISLR, kknn, palmerpenguins, parsnip, ranger, recipes,
-        rsample, tibble, tidyr, tune, vip, workflows, xgboost, yardstick
+        rsample, tibble, tidyr, tune, vip, workflows, xgboost,
+        yardstick
 Suggests: knitr, lintr, rmarkdown, tufte
 License: GPL-3
 MD5sum: c5c2415c718e4517a9512b4356348bcd
@@ -474,10 +482,10 @@ NeedsCompilation: no
 Package: jrTidyverse
 Version: 0.2.0
 Depends: R (>= 3.5.0)
-Imports: base64enc, dplyr (>= 1.0.0), hrbrthemes, htmltools, lubridate (>=
-        1.7.2), readr, tibble (>= 1.4.2)
-Suggests: ggplot2, ggplot2movies, gridExtra, gutenbergr, knitr, lintr, plotly,
-        rmarkdown, skimr, testthat, tidyr, tidyverse, wordcloud
+Imports: base64enc, dplyr (>= 1.0.0), hrbrthemes, htmltools, lubridate
+        (>= 1.7.2), readr, tibble (>= 1.4.2)
+Suggests: ggplot2, ggplot2movies, gridExtra, gutenbergr, knitr, lintr,
+        plotly, rmarkdown, skimr, testthat, tidyr, tidyverse, wordcloud
 License: GPL-2
 MD5sum: 228ae42c9726d22f49505994878e3423
 NeedsCompilation: no
@@ -506,8 +514,8 @@ Package: jrWhyR
 Version: 0.2.1
 Depends: R (>= 3.5.0)
 Imports: lubridate, tibble
-Suggests: DT, ggplot2movies, hrbrthemes, kableExtra, knitr, lintr, plotly,
-        plumber, shiny, testthat, tidyverse
+Suggests: DT, ggplot2movies, hrbrthemes, kableExtra, knitr, lintr,
+        plotly, plumber, shiny, testthat, tidyverse
 License: GPL-3
 MD5sum: 831cf40c3054ec6f3a8609b7ee08ff70
 NeedsCompilation: no
@@ -515,8 +523,8 @@ NeedsCompilation: no
 Package: jrYr
 Version: 0.1.1
 Depends: R (>= 3.1.0)
-Imports: dplyr, DT, ggplot2, knitr, plotly, rmarkdown, shiny, shinydashboard,
-        tufte
+Imports: dplyr, DT, ggplot2, knitr, plotly, rmarkdown, shiny,
+        shinydashboard, tufte
 License: GPL-3
 MD5sum: cda69b099c9032df70aa239d394f220b
 NeedsCompilation: no
@@ -530,7 +538,8 @@ NeedsCompilation: no
 
 Package: recipes
 Version: 0.0.2
-Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny, stringr, tibble
+Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny, stringr,
+        tibble
 License: GPL-2 | GPL-3
 MD5sum: c045a9625a6a2e057395307a25994d77
 NeedsCompilation: no

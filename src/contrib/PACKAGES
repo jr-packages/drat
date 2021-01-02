@@ -388,7 +388,7 @@ Depends: R (>= 3.0)
 Imports: devtools, drat, ggplot2, jrData, knitr, lintr, poweRlaw,
         roxygen2, testthat, tinytex
 License: GPL-3 | GPL-2
-MD5sum: 5843187bd23dd34a465e231747ccb5d7
+MD5sum: bb264e1852dca96c78fa2dc2ed00af39
 NeedsCompilation: no
 
 Package: jrPred

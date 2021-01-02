@@ -217,7 +217,7 @@ Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, gtrendsR, readr,
 Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate,
         rmarkdown, testthat, tidyr, tufte
 License: GPL-3
-MD5sum: 37ab3715e59596ebf72cf7e0c7ea3ee2
+MD5sum: a8fb8356b9d115085ef302c1c667e5ac
 NeedsCompilation: no
 
 Package: jrIntroductionRSS

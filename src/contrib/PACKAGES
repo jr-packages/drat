@@ -161,7 +161,7 @@ Imports: dplyr, GGally, ggplot2, ggplot2movies, ggrepel, ggridges,
         quantreg
 Suggests: DT, formatR, knitr, lintr, tufte
 License: GPL-2 | GPL-3
-MD5sum: 3ceb58ddd27eafc1e22bc2bc05555315
+MD5sum: 7654a67abf483ac54d86ece00eb7f51b
 NeedsCompilation: no
 
 Package: jrGit

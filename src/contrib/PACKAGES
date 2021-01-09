@@ -385,6 +385,18 @@ License: GPL-3
 MD5sum: d398304552a53f70c7668680c9f1a1da
 NeedsCompilation: no
 
+Package: jrNotes2
+Version: 1.0.2
+Depends: R (>= 3.5.0)
+Imports: bookdown, cli, digest, dplyr, formatR, fs, ggplot2, glue,
+        httr, knitr (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf,
+        reticulate (>= 1.11.1), rlang, rmarkdown (>= 2.3), spelling,
+        stringi, stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
+Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
+License: GPL-3
+MD5sum: 7ae53861f4977237a0270947b0bbe3d4
+NeedsCompilation: no
+
 Package: jrNotesCI
 Version: 0.1.0
 Depends: R (>= 3.5.0)

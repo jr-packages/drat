@@ -694,10 +694,11 @@ NeedsCompilation: no
 Package: jrTimeSeries
 Version: 0.0.1
 Depends: R (>= 3.5.0)
-Imports: fable, feasts, ggplot2, tsibble
+Imports: fable, feasts, fma, fpp, fpp3, ggplot2, gridExtra, hrbrthemes,
+        patchwork, tsibble, tsibbledata
 Suggests: knitr, lintr, rmarkdown, tufte
 License: GPL-3
-MD5sum: c85ae1e9950714604620197f0e13b59b
+MD5sum: e0c4b2890f38a48b480583f53929bb1f
 NeedsCompilation: no
 
 Package: jrWhyR

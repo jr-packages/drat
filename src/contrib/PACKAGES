@@ -166,6 +166,17 @@ License: GPL-2 | GPL-3
 MD5sum: 7654a67abf483ac54d86ece00eb7f51b
 NeedsCompilation: no
 
+Package: jrGgplot2Bio
+Version: 0.1.7
+Depends: R (>= 3.5.0)
+Imports: dplyr, GGally, gghighlight, ggplot2, ggplot2movies, ggrepel,
+        ggridges, ggthemes, gridExtra, hexbin, hrbrthemes, jrGgplot2,
+        plotly, quantreg, viridis
+Suggests: DT, formatR, knitr, lintr, tufte
+License: GPL-2 | GPL-3
+MD5sum: 863e54880cc6bcd8812f3c6e0e2d346f
+NeedsCompilation: no
+
 Package: jrGit
 Version: 0.0.8.9001
 Depends: R (>= 3.5.0)

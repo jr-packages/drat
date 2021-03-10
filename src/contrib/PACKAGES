@@ -427,9 +427,10 @@ NeedsCompilation: no
 Package: jrNotesCI
 Version: 0.2.2
 Depends: R (>= 3.5.0)
-Imports: cli, drat, fs, inteRgrate, readr, remotes, stringr, yaml
+Imports: cli, drat, fs, inteRgrate, readr, remotes, stringr, tools,
+        yaml
 License: GPL-3
-MD5sum: 64646b5c8430d9d24ca72cddc612d8ac
+MD5sum: 6a078fcc4c71ec5f9030a6b46ba5e8d8
 NeedsCompilation: no
 
 Package: jrOOP

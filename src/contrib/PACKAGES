@@ -219,7 +219,7 @@ Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, jrData,
         jrIntroduction, readr, readxl, tibble
 Suggests: formatR, knitr, lintr, rmarkdown, testthat, tufte
 License: GPL-3
-MD5sum: aca6456f2bbdc4f746a8d8f08d28bd65
+MD5sum: c88739b245a6fb4bfa4d9e9070f99352
 NeedsCompilation: no
 
 Package: jrIntroduction

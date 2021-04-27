@@ -722,6 +722,16 @@ License: GPL-2
 MD5sum: d2c9adf9c9f5a3baf3bb0b18aed5a1c7
 NeedsCompilation: no
 
+Package: jrSpatial
+Version: 0.2.3
+Depends: R (>= 3.4.0)
+Imports: dplyr, ggplot2, leaflet, raster, sf, tibble, tidyr, tmap
+Suggests: cartogram, cartography, DT, ggspatial, knitr, lintr,
+        maptools, rmarkdown, testthat, tufte, webshot
+License: GPL-2
+MD5sum: c508d7093c52dabfb2ab827a2f2ad7ac
+NeedsCompilation: no
+
 Package: jRsql
 Version: 0.1.0
 Depends: R (>= 3.2.0),

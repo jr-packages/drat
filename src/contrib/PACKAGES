@@ -344,7 +344,7 @@ Imports: broom, coin, dplyr, formatR, ggplot2, ggraph, jrModelling,
 Suggests: cowsay, DT, gridExtra, knitr, lintr, survival, testthat,
         tufte
 License: GPL-3 | GPL-2
-MD5sum: 3a0c9feca61a3491aae678256c5d8a76
+MD5sum: 4f1c3fb6308832853b5367321ccb8774
 NeedsCompilation: no
 
 Package: jrNotes

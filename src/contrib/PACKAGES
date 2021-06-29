@@ -380,7 +380,7 @@ Imports: bookdown, cli, digest, dplyr, flextable, formatR, fs, ggplot2,
 Suggests: covr, drat, jrApiAsana, namer (>= 0.1.4), praise, rstudioapi,
         testthat
 License: GPL-3
-MD5sum: fc3f50bf51050c6d7bf96462ac9b1ea4
+MD5sum: faedd5913e61446ae6bb47358e844788
 NeedsCompilation: no
 
 Package: jrNotesCI

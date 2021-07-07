@@ -538,7 +538,7 @@ Depends: R (>= 3.2.0)
 Imports: dplyr, ggplot2, ggplot2movies, readr, tibble
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: a91f3b61e105769d451005437850a618
+MD5sum: db280e4fa1fa3a53aab5b4bcf2b8b51b
 NeedsCompilation: no
 
 Package: jrR4DS

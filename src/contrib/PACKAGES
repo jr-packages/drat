@@ -529,7 +529,7 @@ Depends: R (>= 3.5.0)
 Suggests: dplyr, formatR, ggplot2, ggplot2movies, jrProgramming, knitr,
         lintr, rmarkdown, stringi, stringr, testthat, tufte
 License: GPL-3
-MD5sum: 68c08e5f8a113dcc632bfc3b7cb7f220
+MD5sum: 23562ffbbe0f411aee9d83cc001a3e02
 NeedsCompilation: no
 
 Package: jrProgramming

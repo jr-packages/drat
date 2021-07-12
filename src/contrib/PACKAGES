@@ -461,7 +461,7 @@ Imports: bookdown, cli, digest, dplyr, flextable, formatR, fs, ggplot2,
 Suggests: covr, drat, jrApiAsana, namer (>= 0.1.4), praise, rstudioapi,
         testthat
 License: GPL-3
-MD5sum: b7a92bd41a4affbdcc1eb2939151a39b
+MD5sum: a0b2a3149d9e9079b3c8a080becbd3e0
 NeedsCompilation: no
 
 Package: jrNotesCI
